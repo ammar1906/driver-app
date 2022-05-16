@@ -1,3 +1,4 @@
+# simple crud app for testing 
 # terminal commands after cloning it 
 
 cd "git app"
